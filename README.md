@@ -1,16 +1,4 @@
-# flutter_application_1
+# VHack 2024
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Team Code: 1s07dVh1xWaLWaBxlQzvzbuEdrc2 <br/>
+Case Study 4: Combating Financial Fraud 
